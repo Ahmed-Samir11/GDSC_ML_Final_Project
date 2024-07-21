@@ -1,9 +1,12 @@
 # GDSC_ML_Final_Project
 Notebook of my work to achieve 3rd place on Kaggle and 99.7% accuracy. The project is about utilizing NLP principles to classify real and fake news.
 # Data Loading
-1- Load training and testing data from CSV files.
+1- Load training and testing data from CSV files. 
+
 2- Explore data using train_df.info() and train_df.describe().
+
 3- Check for missing values using train_df.isnull().
+
 # Feature Engineering - Subject Category
 1- Create a new column subject_class to categorize subjects.
 2- Define common subject categories (common_classes).
